@@ -1,0 +1,14 @@
+charset,Shift_JIS
+
+craftman,rusudadada
+craftmanw,留守田
+craftmanurl,https://ukagakadoudesyou.web.fc2.com/
+
+name,クレープコインとタコリック
+type,ghost
+
+sakura.name,ヘンリック
+kero.name,ガスコイン
+
+
+shiori,satori.dll

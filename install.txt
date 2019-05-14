@@ -1,0 +1,4 @@
+charset, Shift_JIS
+type,ghost
+name,クレープコインとタコリック
+directory,CREPECOIN_and_TACORYK

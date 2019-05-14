@@ -1,0 +1,124 @@
+
+＃　-----------------------------------------------------
+＃　
+＃　shiori互換dll『里々（さとり）』用辞書
+＃　
+＃　メニューのボタン名とか。 
+＃　ネットワーク更新の際のデータ置き場とか。 
+＃　おすすめ／ポータルなURLの一覧とか。 
+＃　
+＃　-----------------------------------------------------
+
+
+
+＠portalrootbutton.caption
+きほん(&P)
+
+＠recommendrootbutton.caption
+おすすめ(&R)
+
+＠kero.recommendbuttoncaption
+ガスコインのおすすめ(&R)
+
+＠updatebutton.caption
+オンラインアップデート(&U)
+ネットワーク更新(&U)
+
+＠vanishbutton.caption
+消滅(&F)
+アンインストール(&F)
+vanish(&F)
+
+＠readmebutton.caption
+現在のシェルについて(&R)
+取扱説明書(&R)
+Read me(&R)
+
+＠vanishbutton.visible
+1 
+＃消滅指示を表示するかどうか。1で表示、0で非表示（色が変わり選択できなくなる）です。
+
+
+＠homeurl
+https://raw.githubusercontent.com/rusudadada/CREPECOIN_and_TACORYK/master/
+＃ネットワーク更新時にアクセスするアドレス。
+＃フォルダ名を記述、最後に/をつけてください。例のような形になります。
+＃例）http://red_post.sakura.ne.jp/R_POST_and_KOMAINU/
+
+＠username
+（ユーザ名） 
+
+＊コメント
+
+　URL一覧は…… 
+
+　１行目がサイト名 
+　２行目がジャンプ先URL 
+　３行目がバナーURL（省略可） 
+　４行目以降はジャンプ時に表示される会話文（省略可） 
+
+
+＃＊sakura.recommendsites
+＃作者のサイト。ここを使わずに、sakura.portalsitesにまとめてしまうのも一つの方法。 
+＃http://～ 
+＃バナー（あれば） 
+
+
+＊sakura.recommendsites
+配布元サイト
+http://ukagakadoudesyou.web.fc2.com/
+：私達の配布元だ。
+：何かあったらとりあえずここを見ると良いぜ。
+
+＊sakura.recommendsites
+作者のツイッター
+https://twitter.com/rusudadada
+バグ報告はこっちの方が早いらしいぞ。
+：呟きの大半はどうでもいい情報ばかりだがな。
+
+＃＊sakura.portalsites
+＃-
+＃「-」といれることでリンクメニューに罫線を引くことができます。 
+
+
+＊sakura.portalsites
+伺かのあそびかたφ（FIRST GUIDEφ） 
+http://haka.sakura.ne.jp/guide/ 
+
+＊sakura.portalsites
+-
+
+＊sakura.portalsites
+何かゴーストセンター 
+http://ngc.sherry.jp/ 
+
+＊sakura.portalsites
+GHOST TOWN 
+http://ghosttown.mikage.jp/ 
+
+＊sakura.portalsites
+Disc-2 
+http://disc2.s56.xrea.com/ 
+：総合情報サイトだそうだ。
+
+＊sakura.portalsites
+-
+
+＊sakura.portalsites
+SSP BUGTRAQ 
+http://ssp.shillest.net/ 
+：私達が動くベースウェアだな。
+
+＃＊sakura.recommendsites
+＃-
+＃http://
+＃
+
+＊kero.recommendsites
+日本いのちの電話連盟
+https://www.inochinodenwa.org/lifeline.php
+
+
+＃　φは直後の文字の「特殊性」を無効化します。
+＃　ここでは「…」がそのままでは「…\w3」に置き換えられてしまうのを防いでます。
+＃　他にも置き換えたくないカッコ　（　などに使えます。

@@ -1,0 +1,14 @@
+charset,Shift_JIS
+
+descript
+{
+version,0
+}
+
+surface0
+{
+collision0,117,23,398,128,Head
+collision1,129,133,365,234,Face
+point.kinoko.centerx,145
+point.kinoko.centery,30
+}
