@@ -4,6 +4,6 @@ ghost/master/satorite.txt,nonar,noupdate
 ghost/master/satorite.exe,nonar,noupdate
 ghost/master/‚ê‚µ‚Î.txt,nonar,noupdate
 ghost/master/‚ê‚µ‚Î.exe,nonar,noupdate
-.gitignore,nonar,noupdate
+.gitignore.txt,nonar,noupdate
 .gitattributes,nonar,noupdate
 .git/,nonar,noupdate
