@@ -2,13 +2,14 @@ charset,Shift_JIS
 
 descript
 {
-version,0
+version,1
 }
 
 surface0
 {
-collision0,117,23,398,128,Head
-collision1,129,133,365,234,Face
+collision0,57,13,249,63,Head
+collision1,75,67,231,139,Face
+collision2,245,141,275,175,Tail
 point.kinoko.centerx,145
 point.kinoko.centery,30
 }
