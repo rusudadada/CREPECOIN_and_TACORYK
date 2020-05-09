@@ -118,6 +118,11 @@ http://ssp.shillest.net/
 日本いのちの電話連盟
 https://www.inochinodenwa.org/lifeline.php
 
+＊kero.recommendsites
+厚生労働省 - 電話相談
+https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/seikatsuhogo/jisatsu/soudan_tel.html
+
+
 
 ＃　φは直後の文字の「特殊性」を無効化します。
 ＃　ここでは「…」がそのままでは「…\w3」に置き換えられてしまうのを防いでます。
